@@ -31,10 +31,3 @@
 ### 📊 BI, Analytics & Visualization (DA/BI focus)
  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-{
-  "status": "Open for Networking",
-  "hobbies": ["Data Storytelling", "Automating Everything", "Modern Data Stack"],
-  "favorite_stack": ["dbt", "Airflow", "Power BI"],
-  "coffee_conversion_rate": "1 cup ➔ 1000 lines of code",
-  "fun_fact": "Started with Chemistry, now bonding with Data Points"
-} -->
