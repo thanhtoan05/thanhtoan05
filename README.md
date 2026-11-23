@@ -17,7 +17,7 @@
 
 ## 💼 Experience
 
-  * **Business Intelligence Analyst Intern** @ [KPIM](https://kpim.vn/) | *November 2025 - Present*
+  * **Business Intelligence Analyst Intern** @ [KPIM](https://kpim.vn/) | *November 2025 - May 2026*
 
 ---
 
